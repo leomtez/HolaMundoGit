@@ -6,6 +6,8 @@ public class HolaMundo {
 	System.out.println("Cambio 1 consola");	
 	System.out.println("Cambio 1 Eclipse");
 	System.out.println("cambio 2 consola");
-	}
+	System.out.println("Cambio 2 Eclipse");
+	
+  }
 
 }
